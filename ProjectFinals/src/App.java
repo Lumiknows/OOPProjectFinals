@@ -25,7 +25,7 @@ class MyText extends JFrame implements ActionListener {
         String[] partOptions = {
                 "Batteries", "Charger", "Tires", "Controllers", "Connectors",
                 "Cycle Analysts", "DC-DC Converters", "Ebrakes", "Freewheels and Cassettes",
-                "Lights", "Hub Motors", "Torque Sensors", "Solar", "Spokes",
+                "Lights", "Hub Motors", "Solar", "Spokes",
                 "Throttles", "Torque Arms", "Wiring", "Rims"
         };
 
